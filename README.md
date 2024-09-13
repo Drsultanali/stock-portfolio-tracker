@@ -23,5 +23,5 @@ A Python tool for managing and tracking stock investments with real-time data an
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/stock-portfolio-tracker.git
+   git clone https://github.com/Drsultanali/stock-portfolio-tracker.git
    cd stock-portfolio-tracker
